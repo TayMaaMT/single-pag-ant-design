@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# live project
 netlify project [live project](https://vigorous-johnson-380717.netlify.app/).
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
